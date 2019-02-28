@@ -32,4 +32,6 @@ elif cuisine == "2":
 		print "What would you like from rockin' joe's:"
 		aorder1 = raw_input("order: ")
 		print "Your order of %s from %s has been placed" % (aorder1, "Rockin' Joe's")
+else :
+	print "Sorry we are out of that food."
 
