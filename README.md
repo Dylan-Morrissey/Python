@@ -3,5 +3,5 @@ Here is a more detailed description about the python scritps I have written. I c
 
 * [irishReg.py](https://github.com/Dylan-Morrissey/Python/blob/master/irishReg.py) - I created this script to help me understand and learn dictionaries. It is uses dictionaries to store the city identifier for car registrations in Ireland. You can search the city identifier if you are not sure and you can also play a quiz to try and guess the city identifiers.
 
-* learnPythonHardWay - Is a series of short python script which I created to help me understand python from simply printing to the console to Object oriented classes.
+* [learnPythonHardWay](https://github.com/Dylan-Morrissey/Python/tree/master/learnPythonHardWay) - Is a series of short python script which I created to help me understand python from simply printing to the console to Object oriented classes.
 
