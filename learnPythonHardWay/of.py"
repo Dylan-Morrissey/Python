@@ -1,3 +1,0 @@
-print "This is a simple game."
-input("Press enter to continue...")
-print "Choose an option:"
