@@ -1,4 +1,4 @@
-# Script Name   : irishreg.py
+# Script Name   : irishReg.py
 # Author        : Dylan Morrissey
 # Created       : 19th February 2019
 # Description   : Simple use of pythons dictionarys to search for where an irish car registration city identifier is from and also allows you to play a quiz agains this city identifier.
