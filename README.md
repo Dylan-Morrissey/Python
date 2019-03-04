@@ -5,5 +5,8 @@ Here is a more detailed description about the python scritps I have written. I c
 
 * [markov.py](https://github.com/Dylan-Morrissey/Python/blob/master/markov.py) - A python script using Markov chain to predict the probability of moving to another access point.
 
+* [largestNum.py](https://github.com/Dylan-Morrissey/Python/blob/master/largestNum.py) - Simple script which gets the largest number from a list.
+
 * [learnPythonHardWay](https://github.com/Dylan-Morrissey/Python/tree/master/learnPythonHardWay) - Is a series of short python script which I created to help me understand python from simply printing to the console to Object oriented classes.
+
 
