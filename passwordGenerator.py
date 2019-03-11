@@ -1,7 +1,7 @@
 # Script Name   : passwordGenerator.py
 # Author        : Dylan Morrissey
 # Created       : 11th March 2019
-# Description   : Script which is used to randomly generate a password of your specifications.
+# Description   : Script which is used to randomly generate a password.
 import random
 
 def passwordGen(passlen, option):
