@@ -9,6 +9,7 @@ Here is a more detailed description about the python scritps I have written. I c
 
 * [passwordGenerator.py](https://github.com/Dylan-Morrissey/Python/blob/master/passwordGenerator.py) - I created this script to help me generate secure passwords for my accounts due to recent data breaches.
 
+* [timetomins.py](https://github.com/Dylan-Morrissey/Python/blob/master/timetomins.py) - I created this script to help me with a project and I was also intrested to see what percent of work I completed at a given time was.
 
 * [learnPythonHardWay](https://github.com/Dylan-Morrissey/Python/tree/master/learnPythonHardWay) - Is a series of short python script which I created to help me understand python from simply printing to the console to Object oriented classes.
 
