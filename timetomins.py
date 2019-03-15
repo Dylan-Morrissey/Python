@@ -65,7 +65,7 @@ def menu():
 			timeleft = workleft()
 			hours = str(timeleft / 60.0).split('.')
 			hour = int(hours[0])
-			mins = int(hours[1]) * .6
+			mins = float(hours[1]) * 0.6
 			print "You have %d hours and %d minutes left." % (hour, (round(mins/ 1000000000)))
 			workday = int(raw_input("How many hours is your shift?"))
 			print "You are %.2f%% through work.\n" % (100 - (timeleft/(workday*60) * 100))
