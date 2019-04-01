@@ -11,6 +11,8 @@ Here is a more detailed description about the python scritps I have written. I c
 
 * [timetomins.py](https://github.com/Dylan-Morrissey/Python/blob/master/timetomins.py) - I created this script to help me with a project and I was also intrested to see what percent of work I completed at a given time was.
 
+* [GymApp](https://github.com/Dylan-Morrissey/Python/tree/master/GymApp) - This folder contains a python script and two json files. The script is a gym app which allows you to add new users, trainers etc. I build this script to help me get a greater under standing of classes, OOP and inheritance in python.
+
 * [learnPythonHardWay](https://github.com/Dylan-Morrissey/Python/tree/master/learnPythonHardWay) - Is a series of short python script which I created to help me understand python from simply printing to the console to Object oriented classes.
 
 
