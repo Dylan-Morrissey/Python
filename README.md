@@ -5,7 +5,7 @@ Here is a more detailed description about the python scritps I have written. I c
 
 * [markov.py](https://github.com/Dylan-Morrissey/Python/blob/master/markov.py) - A python script using Markov chain to predict the probability of moving to another access point.
 
-* [dayz.py](https://github.com/Dylan-Morrissey/Python/blob/master/dayz.py) - I created this script for fun. i just wanted to build a short text base game with multiple outcomes.
+* [dayz.py](https://github.com/Dylan-Morrissey/Python/blob/master/dayz.py) - I created this script for fun. I just wanted to build a short text base game with multiple outcomes.
 
 * [largestNum.py](https://github.com/Dylan-Morrissey/Python/blob/master/largestNum.py) - Simple script which gets the largest number from a list.
 
