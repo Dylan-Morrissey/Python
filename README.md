@@ -15,6 +15,8 @@ Here is a more detailed description about the python scritps I have written. I c
 
 * [GymApp](https://github.com/Dylan-Morrissey/Python/tree/master/GymApp) - This folder contains a python script and two json files. The [GymApp.py](https://github.com/Dylan-Morrissey/Python/tree/master/GymApp/GymApp.py) script is a gym app which allows you to add new users, trainers and more. I built this script to help me get a greater under standing of classes, OOP and inheritance in python.
 
+* [skeleton](https://github.com/Dylan-Morrissey/Python/tree/master/skeleton) -This folder contains a good skeloton directory for the begining of any project. It has project layout, automated tests, modules and install scripts.
+
 * [learnPythonHardWay](https://github.com/Dylan-Morrissey/Python/tree/master/learnPythonHardWay) - Is a series of short python script which I created to help me understand python from simply printing to the console to Object oriented classes.
 
 
