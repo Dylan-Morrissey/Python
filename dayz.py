@@ -1,3 +1,7 @@
+# Script Name   : dayz.py
+# Author        : Dylan Morrissey
+# Created       : 2nd April 2019
+# Description   : This is a short cmd text based game which makes use of classes and inheritance in python.
 import random
 
 class OpeningScene(object):
