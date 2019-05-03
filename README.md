@@ -9,7 +9,7 @@ Here is a more detailed description about the python scritps I have written. I c
 
 * [largestNum.py](https://github.com/Dylan-Morrissey/Python/blob/master/largestNum.py) - Simple script which gets the largest number from a list.
 
-* [firstNeuralNetwork.py](https://github.com/Dylan-Morrissey/Python/blob/master/largestNum.py) - This is a very basic neural network with two input and one output.
+* [firstNeuralNetwork.py](https://github.com/Dylan-Morrissey/Python/blob/master/firstNeuralNetwork.py) - This is a very basic neural network with two input and one output.
 
 * [passwordGenerator.py](https://github.com/Dylan-Morrissey/Python/blob/master/passwordGenerator.py) - I created this script to help me generate secure passwords for my accounts due to recent data breaches.
 
